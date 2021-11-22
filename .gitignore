@@ -1,0 +1,8 @@
+
+*.mat
+*.pdf
+*.csv
+Chen and Velikov - Old/
+export_anomaly_results.m
+Inputs/SignalDocumentation.xlsx
+Results/ChenVelikovTablesOutput.txt
