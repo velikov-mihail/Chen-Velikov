@@ -3,9 +3,9 @@ clear
 clc
 
 restoredefaultpath; % Start with the default path
-matlabPackagePath='D:/MATLAB AP Package for Chen and Velikov (JFQA)/'; % Path to the MATLAB asset pricing package
-paperCodePath='D:/MATLAB AP Package for Chen and Velikov (JFQA)/Chen and Velikov'; % Path to the code for Chen and Velikov
-inputsPath='D:/MATLAB AP Package for Chen and Velikov (JFQA)/Chen and Velikov/Inputs/'; % Path to the folder with inputs that should contain 
+matlabPackagePath='D:/Published Repos/Chen and Velikov (JFQA)/'; % Path to the MATLAB asset pricing package
+paperCodePath='D:/Published Repos/Chen and Velikov (JFQA)/Chen and Velikov'; % Path to the code for Chen and Velikov
+inputsPath='D:/Published Repos/Chen and Velikov (JFQA)/Chen and Velikov/Inputs/'; % Path to the folder with inputs that should contain 
 
 % Add the relevant folders (with subfolders) to the path
 addpath(genpath([matlabPackagePath,'Data']))
