@@ -5,8 +5,8 @@ This repository contains code used to create the results in Chen and Velikov (WP
 
 The order of operations to replicate the results in Chen and Velikov (WP, 2021) is:
 
-1. Download the code and follow the instructions for setting up the MATLAB asset pricing package from https://github.com/velikov-mihail/AnomalyCookbookOfficial
- 	* The results in Chen and Velikov (2021) use the pre-release v0.1 of the MATLAB asset pricing package, which will made public soon. The code is also available from the authors upon request.
+1. Download the code and follow the instructions for setting up the MATLAB Toolkit from https://github.com/velikov-mihail/AssayingAnomalies.git
+ 	* The results in Chen and Velikov (2021) use the pre-release v0.1 of the MATLAB Toolkit.
 2. Download the following two files from Andrew Chen and Tom Zimmerman's www.openassetpricing.com (April 2021 release)
 	* [signed_predictors_dl_wide.zip](https://drive.google.com/file/d/1-1RUq2wUADu_ncvQJCYY3wxDhqhHxBow/view) - unzip to get signed_predictors_dl_wide.csv
 	* [SignalDocumentation.xlsx](https://docs.google.com/spreadsheets/d/18DvZPscKsD0_ZeeUMjyXhF1qn0emDVaj/edit#gid=70837236)
